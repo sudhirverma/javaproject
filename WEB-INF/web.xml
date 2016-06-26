@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<web-app>
+
+	<servlet>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>phd.RegisterServlet</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>RegisterServlet</servlet-name>
+        <url-pattern>/RegisterServlet</url-pattern>
+    </servlet-mapping> 
+	
+		<servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>phd.LoginServlet</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/LoginServlet</url-pattern>
+    </servlet-mapping>
+	
+	
+			<servlet>
+        <servlet-name>OrderServlet</servlet-name>
+        <servlet-class>phd.OrderServlet</servlet-class>
+    </servlet>
+	<servlet-mapping>
+        <servlet-name>OrderServlet</servlet-name>
+        <url-pattern>/OrderServlet</url-pattern>
+    </servlet-mapping>
+	
+	</web-app>
