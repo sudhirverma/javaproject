@@ -15,7 +15,7 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
---
+--am
 -- Table structure for table `orders`
 --
 
@@ -120,7 +120,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (27,'Amandeep Singh','8552071939','203,E-4, Shivshrushti Apartment, Shivaji Housing Society, SB Road','sudhirverma@gmail.com','sudhirverma','sudhirverma'),(28,'asdfasdf','1111111111','a','asdf@asdf.com','14030142005','asdfasdf'),(29,'Sudhir Verma','9999999999','203,E-4, , aaaaaaaaaa, SB Road','assssss014@gmail.com','kokokokoko','klklhjgjkgg'),(30,'Assssss','0855207193','203,E-4, Sdddddddddd, Shivaji Housing Society, SB Road','amddddd014@g885mail.com','amfffffffsingh','asdflkjh'),(31,'Sudhir Verma','9999999999','..','sudhirverma@gmail.com','pizzaadmin','asdfasdf');
+INSERT INTO `users` VALUES (27,'sudhir verma','8793574056','203,E-4, sudhirsudhirsudhir, SB Road','sudhirverma@gmail.com','sudhirverma','sudhirverma'),(28,'asdfasdf','1111111111','a','asdf@asdf.com','14030142005','asdfasdf'),(29,'Sudhir Verma','9999999999','203,E-4, , aaaaaaaaaa, SB Road','assssss014@gmail.com','kokokokoko','klklhjgjkgg'),(30,'Assssss','0855207193','203,E-4, Sdddddddddd, Shivaji Housing Society, SB Road','amddddd014@g885mail.com','amfffffffsingh','asdflkjh'),(31,'Sudhir Verma','9999999999','..','sudhirverma@gmail.com','pizzaadmin','asdfasdf');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
