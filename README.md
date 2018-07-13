@@ -1,25 +1,20 @@
-===============================
-Pizza Hut Delivery Installation
-==============================
+## Pizza Hut Delivery Installation
 
-===============================
-System Software Requirements:
-================================
+## System Software Requirements:
+
 1. Tomcat 7
 2. Java Development Kit 7
 3. MySQL
 4. Internet Browser
 
-===============================
-System Hardware Requirements:
-==============================
+## System Hardware Requirements:
+
 1. Pentium 4 or better processor
 2. 1GB or more RAM
 3. 100 MB of disk space
 
-============================
-Installation Instructions
-===========================
+## Installation Instructions
+
 The following web app is tested to run on Tomcat7 with JDK 7 on Windows 7 based PC.
 1. Install tomcat and JDK.
 2. Install mysql database
@@ -31,9 +26,8 @@ The following web app is tested to run on Tomcat7 with JDK 7 on Windows 7 based 
 8. Change the database username and password according to your settings in mydatabase.java file and recompile.
 9. Run the app in your browser.
 
-===================== 
-Login Details:
-====================
+## Login Details:
+
 Client Side
 Username- sudhirverma, Password- asdflkjh
 Admin Side
