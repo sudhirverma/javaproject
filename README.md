@@ -26,12 +26,5 @@ The following web app is tested to run on Tomcat7 with JDK 7 on Windows 7 based 
 8. Change the database username and password according to your settings in mydatabase.java file and recompile.
 9. Run the app in your browser.
 
-## Login Details:
-
-Client Side
-Username- sudhirverma, Password- asdflkjh
-Admin Side
-Username- pizzaadmin, Password- asdfasdf
-
 
 
